@@ -1,0 +1,6 @@
+Linux Ubuntu Server Standart aufgesetzt
+SSH KEYGEN gesetzt
+Festlegen der ENV Variable 
+# Für die Docker Configs 
+$configsDocker in /opt/dockerConfig/
+Docker zur Gruppe Docker hinzugefügt kein Sudo mehr 
