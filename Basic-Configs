@@ -4,3 +4,17 @@ Festlegen der ENV Variable
 # Für die Docker Configs 
 $configsDocker in /opt/dockerConfig/
 Docker zur Gruppe Docker hinzugefügt kein Sudo mehr 
+Mailserver installiert mit POSTFIX für versand von Internen Mails only Local 
+benachrichtung bei Server problemen
+/home/user/.. liegen alle skripte die für das OS gedacht sind
+Autobackup mit  zstd kompremieren nach backup um platz zu sparen
+batcat statt cat deutlich bessere und übersichtlichere Ausgabe
+
+restict anschauen
+und backuppc
+
+sicherheit 
+integrit 
+chrootkit
+ufw
+tcpdump
